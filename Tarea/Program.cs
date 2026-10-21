@@ -1,4 +1,5 @@
 ﻿ using Tarea.VariablesyOperadores;
+ using Tarea.EjerciciosTareaU1.Bloque2EstructurasdeControlCondicionales;
 // CurrencyConverter convertion = new CurrencyConverter();
 // convertion.Convertion();
 
@@ -32,3 +33,9 @@
 
 // PrestamoSimple prestamo = new PrestamoSimple();
 // prestamo.Calcular();
+
+/*BLOQUE 2*/
+
+Positivonegativocero positivo = new Positivonegativocero();
+positivo.Ejecutar();
+

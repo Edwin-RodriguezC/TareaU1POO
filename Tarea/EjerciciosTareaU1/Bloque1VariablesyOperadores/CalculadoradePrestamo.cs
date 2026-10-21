@@ -1,5 +1,4 @@
 // Ejercicio #10: Calculadora de prestamo
-// Ejercicio #10: Calculadora de préstamo simple
 namespace Tarea.VariablesyOperadores
 {
     public class PrestamoSimple
