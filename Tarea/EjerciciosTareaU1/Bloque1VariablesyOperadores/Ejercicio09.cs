@@ -1,7 +1,7 @@
 // Ejercicio #9: Cálculo de salarios semanales
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
-    public class SalarioSemanal
+    public class Ejercicio09
     {
         public void Calcular()
         {

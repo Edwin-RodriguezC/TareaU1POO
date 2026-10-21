@@ -1,41 +1,75 @@
-﻿ using Tarea.VariablesyOperadores;
+﻿ using Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores;
  using Tarea.EjerciciosTareaU1.Bloque2EstructurasdeControlCondicionales;
-// CurrencyConverter convertion = new CurrencyConverter();
-// convertion.Convertion();
+ /*BLOQUE 1*/
 
-// CalculadoradeIMC imc = new CalculadoradeIMC();
-// imc.CalcularIMC();
+// Ejercicio01 convertion = new Ejercicio01();
+// convertion.Convertion();        
 
-// // Valores iniciales del ejercicio
+//  Ejercicio02 imc = new Ejercicio02();
+//  imc.CalcularIMC();
+
+// //Valores iniciales del ejercicio
 // int a = 5;
 // int b = 10;
-// Intercambiodevalores intercambio = new Intercambiodevalores();
+// Ejercicio03 intercambio = new Ejercicio03();
 // intercambio.Intercambio(a, b);
 // intercambio.IntercambioReto(a, b); //Reto sin variable temporal con operaciones aritméticas
 
-// Areayperimetro ejercicio = new Areayperimetro();
+// Ejercicio04 ejercicio = new Ejercicio04();
 // ejercicio.Calcular();
 
-// Conversiondetemperatura conversion = new Conversiondetemperatura();
+// Ejercicio05 conversion = new Ejercicio05();
 // conversion.Convertir();
 
-// Sumadedígitos suma = new Sumadedígitos();
+// Ejercicio06 suma = new Ejercicio06();
 // suma.Suma();
 
-// Tiempotranscurrido tiempo = new Tiempotranscurrido();
+// Ejercicio07 tiempo = new Ejercicio07();
 // tiempo.Calcular();
 
-// Desglosedebilletes desglose = new Desglosedebilletes();
+// Ejercicio08 desglose = new Ejercicio08();
 // desglose.Calcular();
 
-// SalarioSemanal salario = new SalarioSemanal();
+// Ejercicio09 salario = new Ejercicio09();
 // salario.Calcular();
 
-// PrestamoSimple prestamo = new PrestamoSimple();
+// Ejercicio10 prestamo = new Ejercicio10();
 // prestamo.Calcular();
 
 /*BLOQUE 2*/
 
-Positivonegativocero positivo = new Positivonegativocero();
-positivo.Ejecutar();
+// Ejercicio11 positivo = new Ejercicio11();
+// positivo.Ejecutar();
 
+// Ejercicio12 ejercicio = new Ejercicio12();
+// ejercicio.Ejecutar();
+
+// Ejercicio13 diadelasemana = new Ejercicio13();
+// diadelasemana.Ejecutar();
+
+// Ejercicio14 calculadoraconswitch = new Ejercicio14();
+// calculadoraconswitch.Ejecutar();
+
+// Ejercicio15 vocal = new Ejercicio15();
+// vocal.Ejecutar();
+
+//  Ejercicio16 sistema = new Ejercicio16();
+//  sistema.Ejecutar();
+
+//  Ejercicio17 calculadora = new Ejercicio17();
+//  calculadora.Ejecutar();
+
+// Ejercicio18 tarifa = new Ejercicio18();
+// tarifa.Ejecutar();
+
+// Ejercicio19 clasificacion = new Ejercicio19();
+// clasificacion.Ejecutar();
+
+// Ejercicio20 añobisiestoydíasdelmes = new Ejercicio20();
+// añobisiestoydíasdelmes.Ejecutar();
+
+// Ejercicio21 validador = new Ejercicio21();
+// validador.Ejecutar();
+
+// Ejercicio22 cajero = new Ejercicio22();
+// cajero.Ejecutar();

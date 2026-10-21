@@ -1,7 +1,7 @@
 //Ejercicio #5: Conversion de temperatura
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
-        public class Conversiondetemperatura
+        public class Ejercicio05
     {
         public void Convertir()
         {

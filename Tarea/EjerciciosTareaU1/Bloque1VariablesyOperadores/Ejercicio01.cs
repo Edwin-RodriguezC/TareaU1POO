@@ -1,6 +1,6 @@
 //Ejercicio #1: Conversor de monedas
-namespace VariablesyOperadores;
-public class   CurrencyConverter
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores;
+public class   Ejercicio01 
 {
     public void Convertion()
     {
@@ -26,4 +26,3 @@ public class   CurrencyConverter
     return valor;
 }
 }
-

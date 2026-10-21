@@ -1,8 +1,7 @@
-
 //Ejercicio #11: Positivo o negativo
 namespace Tarea.EjerciciosTareaU1.Bloque2EstructurasdeControlCondicionales
 {
-public class Positivonegativocero
+public class Ejercicio11
 {
     public void Ejecutar()
     {

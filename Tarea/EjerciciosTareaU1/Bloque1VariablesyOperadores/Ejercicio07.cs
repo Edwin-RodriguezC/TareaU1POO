@@ -1,7 +1,7 @@
 //Ejercico #7: Tiempo transcurrido
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
-    public class Tiempotranscurrido
+    public class Ejercicio07
     {
         public void Calcular()
         {

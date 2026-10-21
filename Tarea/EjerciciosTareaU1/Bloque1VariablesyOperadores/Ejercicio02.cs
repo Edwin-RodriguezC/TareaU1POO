@@ -1,7 +1,7 @@
 //Ejercicio #2: Calculadora de IMC
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
-    public class CalculadoradeIMC
+    public class Ejercicio02
     {
         public void CalcularIMC()
         {

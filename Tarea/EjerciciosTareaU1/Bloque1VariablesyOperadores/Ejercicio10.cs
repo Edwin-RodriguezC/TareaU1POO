@@ -1,7 +1,7 @@
 // Ejercicio #10: Calculadora de prestamo
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
-    public class PrestamoSimple
+    public class Ejercicio10
     {
         public void Calcular()
         {

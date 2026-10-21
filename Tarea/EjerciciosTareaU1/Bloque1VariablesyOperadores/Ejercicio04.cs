@@ -1,6 +1,6 @@
 //Ejercicio #4: Área y perímetro
-namespace Tarea.VariablesyOperadores
-{public class Areayperimetro
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
+{public class Ejercicio04
     {
         public void Calcular()
         {
@@ -94,7 +94,7 @@ namespace Tarea.VariablesyOperadores
                 Console.Write("Inválido, ingrese un valor entero positivo: ");
             return valor;
         }
-
+        
         // Validacion para las dimensiones 
         private double LeerPositivo(string mensaje)
         {

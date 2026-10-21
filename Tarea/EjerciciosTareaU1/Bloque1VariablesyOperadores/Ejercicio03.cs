@@ -1,7 +1,7 @@
 //Ejercicio #3: Intercambio de valores
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
-    public class Intercambiodevalores
+    public class Ejercicio03
     {
          public void Intercambio(int a, int b)
 {

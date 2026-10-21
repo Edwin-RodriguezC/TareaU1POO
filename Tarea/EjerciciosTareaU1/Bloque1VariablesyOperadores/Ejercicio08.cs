@@ -1,8 +1,8 @@
 // Ejercicio #8: Desglose de billetes
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
     
-    public class Desglosedebilletes
+    public class Ejercicio08
     {
         public void Calcular()
         {

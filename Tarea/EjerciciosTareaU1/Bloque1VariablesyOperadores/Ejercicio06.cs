@@ -1,7 +1,7 @@
 //Ejercicio #6: Suma de dígitos
-namespace Tarea.VariablesyOperadores
+namespace Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores
 {
-    public class Sumadedígitos
+    public class Ejercicio06
     {
         public void Suma()
         {
