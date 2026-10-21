@@ -76,6 +76,12 @@
 // cajero.Ejecutar();
 
 /*BLOQUE 3*/
-/*BLOQUE 3*/
-Ejercicio23 ejercicio23 = new Ejercicio23();
-ejercicio23.Ejecutar();
+
+// Ejercicio23 ejercicio23 = new Ejercicio23();
+// ejercicio23.Ejecutar();
+
+// Ejercicio24 ejercicio24 = new Ejercicio24();
+// ejercicio24.Ejecutar();
+
+Ejercicio25 ejercicio25= new Ejercicio25();
+ejercicio25.Ejecutar();
