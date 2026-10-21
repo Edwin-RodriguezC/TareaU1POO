@@ -1,5 +1,6 @@
 ﻿ using Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores;
  using Tarea.EjerciciosTareaU1.Bloque2EstructurasdeControlCondicionales;
+ using Tarea.EjerciciosTareaU1.Bloque3EstructurasdeControlCiclos;
  /*BLOQUE 1*/
 
 // Ejercicio01 convertion = new Ejercicio01();
@@ -73,3 +74,8 @@
 
 // Ejercicio22 cajero = new Ejercicio22();
 // cajero.Ejecutar();
+
+/*BLOQUE 3*/
+/*BLOQUE 3*/
+Ejercicio23 ejercicio23 = new Ejercicio23();
+ejercicio23.Ejecutar();
