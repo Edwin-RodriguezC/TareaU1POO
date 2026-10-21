@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjectsPOO\\TareaU1POO\\Tarea\\Tarea.csproj",
+      "projectUniqueName": "C:\\TareaU1POO\\Tarea\\Tarea.csproj",
       "projectName": "Tarea",
-      "projectPath": "C:\\ProjectsPOO\\TareaU1POO\\Tarea\\Tarea.csproj",
+      "projectPath": "C:\\TareaU1POO\\Tarea\\Tarea.csproj",
       "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjectsPOO\\TareaU1POO\\Tarea\\obj\\",
+      "outputPath": "C:\\TareaU1POO\\Tarea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config"
