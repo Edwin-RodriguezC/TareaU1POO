@@ -12,7 +12,6 @@ namespace Tarea.EjerciciosTareaU1.Bloque4ArreglosUnidimensionales
             {
                 numeros[i] = LeerEntero($"Número {i + 1}: ");
             }
-
             //Aqui la suma es doble
             double suma = 0;
             for (int i = 0; i < numeros.Length; i++)
