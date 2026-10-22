@@ -110,5 +110,8 @@
 // Ejercicio33 ejercicio33 = new Ejercicio33();
 // ejercicio33.Ejecutar();
 
-Ejercicio34 ejercicio34 = new Ejercicio34();
-ejercicio34.Realizar();
+// Ejercicio34 ejercicio34 = new Ejercicio34();
+// ejercicio34.Realizar();
+
+Ejercicio35 ejercicio35 = new Ejercicio35();
+ejercicio35.Ejecutar();
