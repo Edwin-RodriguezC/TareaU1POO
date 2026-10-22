@@ -5,7 +5,6 @@ namespace Tarea.EjerciciosTareaU1.Bloque3EstructurasdeControlCiclos
     {
         public void Realizar()
         {
-            // Límite de 40 para que los valores no se salgan del rango de int
             int n = LeerEnRango("Ingrese cuántos términos desea (1 a 40): ", 1, 40);
 
             int anterior = 0;
@@ -16,11 +15,9 @@ namespace Tarea.EjerciciosTareaU1.Bloque3EstructurasdeControlCiclos
 
             for (int i = 1; i <= n; i++)
             {
-                // Se muestra el término y se acumula en la suma
                 Console.Write(i < n ? $"{anterior}, " : $"{anterior}");
                 suma += anterior;
 
-                // Se calcula el siguiente término
                 int siguiente = anterior + actual;
                 anterior = actual;
                 actual = siguiente;
@@ -33,7 +30,7 @@ namespace Tarea.EjerciciosTareaU1.Bloque3EstructurasdeControlCiclos
             Console.WriteLine($"Promedio: {promedio:F2}");
         }
 
-        // Repite la lectura hasta que el entero esté dentro del rango
+        //Validacion de entradas
         private int LeerEnRango(string mensaje, int minimo, int maximo)
         {
             Console.Write(mensaje);
