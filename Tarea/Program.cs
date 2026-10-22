@@ -1,6 +1,7 @@
 ﻿ using Tarea.EjerciciosTareaU1.Bloque1VariablesyOperadores;
  using Tarea.EjerciciosTareaU1.Bloque2EstructurasdeControlCondicionales;
  using Tarea.EjerciciosTareaU1.Bloque3EstructurasdeControlCiclos;
+ using Tarea.EjerciciosTareaU1.Bloque4ArreglosUnidimensionales;
  /*BLOQUE 1*/
 
 // Ejercicio01 convertion = new Ejercicio01();
@@ -116,5 +117,10 @@
 // Ejercicio35 ejercicio35 = new Ejercicio35();
 // ejercicio35.Ejecutar();
 
-Ejercicio36 ejercicio36 = new Ejercicio36();
-ejercicio36.Calcular();
+// Ejercicio36 ejercicio36 = new Ejercicio36();
+// ejercicio36.Calcular();
+
+/*BLOQUE 4*/
+
+Ejercicio37 ejercicio37 = new Ejercicio37();
+ejercicio37.Concretar();
