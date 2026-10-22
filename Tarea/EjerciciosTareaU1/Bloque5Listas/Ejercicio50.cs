@@ -1,4 +1,4 @@
-//Ejercicio #40: Registro de estudiantes
+//Ejercicio #50: Registro de estudiantes
 namespace Tarea.EjerciciosTareaU1.Bloque5Listas
 {
     public class Ejercicio50
