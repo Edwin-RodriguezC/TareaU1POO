@@ -10,7 +10,7 @@ namespace Tarea.EjerciciosTareaU1.Bloque3EstructurasdeControlCiclos
 
             int r = LeerEnRango($"Ingrese r (0 a {n}): ", 0, n);
 
-            // C(n,r) = n! / (r! * (n-r)!)
+
             int combinaciones = Factorial(n) / (Factorial(r) * Factorial(n - r));
             Console.WriteLine($"C({n},{r}) = {combinaciones}");
         }
