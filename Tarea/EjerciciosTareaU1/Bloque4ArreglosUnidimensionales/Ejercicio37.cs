@@ -1,4 +1,4 @@
-//Ejercicio #37: Arreglos unidimensionales
+//Ejercicio #37: Registro de números
 namespace Tarea.EjerciciosTareaU1.Bloque4ArreglosUnidimensionales
 {
     public class Ejercicio37

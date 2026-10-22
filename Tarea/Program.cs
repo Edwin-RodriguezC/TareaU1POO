@@ -122,5 +122,8 @@
 
 /*BLOQUE 4*/
 
-Ejercicio37 ejercicio37 = new Ejercicio37();
-ejercicio37.Concretar();
+// Ejercicio37 ejercicio37 = new Ejercicio37();
+// ejercicio37.Concretar();
+
+Ejercicio38 ejercicio38 = new Ejercicio38();
+ejercicio38.Concretar();
