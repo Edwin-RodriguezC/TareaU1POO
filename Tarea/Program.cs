@@ -103,3 +103,9 @@
 
 // Ejercicio31 ejercicio31 = new Ejercicio31();
 // ejercicio31.Mostrar();
+
+// Ejercicio32 ejercicio32 = new Ejercicio32();
+// ejercicio32.Ejecutar();
+
+Ejercicio33 ejercicio33 = new Ejercicio33();
+ejercicio33.Ejecutar();
