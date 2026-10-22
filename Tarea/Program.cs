@@ -147,5 +147,8 @@
 // Ejercicio44 ejercicio44 = new Ejercicio44();
 // ejercicio44.Concretar();
 
-Ejercicio45 ejercicio45 = new Ejercicio45();
-ejercicio45.Ejecutar();
+// Ejercicio45 ejercicio45 = new Ejercicio45();
+// ejercicio45.Ejecutar();
+
+Ejercicio46 ejercicio46 = new Ejercicio46();
+ejercicio46.Ejecutar();
