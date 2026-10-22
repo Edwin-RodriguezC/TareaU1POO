@@ -89,5 +89,8 @@
 // Ejercicio26 ejercicio26= new Ejercicio26();
 // ejercicio26.Ejecutar();
 
-Ejercicio27 ejercicio27= new Ejercicio27();
-ejercicio27.Ejecutar();
+// Ejercicio27 ejercicio27= new Ejercicio27();
+// ejercicio27.Ejecutar();
+
+Ejercicio28 ejercicio28= new Ejercicio28();
+ejercicio28.Ejecutar();
